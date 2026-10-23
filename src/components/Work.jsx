@@ -16,8 +16,13 @@ export default function Work() {
               Kaie
             </h3>
             <p className="max-w-[600px] text-sm leading-[1.8] text-muted">
-              Contributing to a product-focused team where thoughtful execution,
-              clear communication, and attention to detail matter.
+              Built and shipped user profile management features, responsive UI
+              components, and an interactive Explore page. Developed reusable
+              frontend components and refined navigation and user flows to
+              improve usability and maintainability. Migrated 2,000+ user
+              records to a new database, supporting data integrity and a smooth
+              transition. Contributed across feature development, testing,
+              debugging, and iteration in a fast-moving startup environment.
             </p>
           </div>
         </article>
@@ -27,8 +32,13 @@ export default function Work() {
               Code Ninjas
             </h3>
             <p className="max-w-[600px] text-sm leading-[1.8] text-muted">
-              Helping students build confidence through code, problem solving,
-              and hands-on technical projects.
+              Taught programming fundamentals to students aged 6–13, adapting
+              lessons to different ages and skill levels. Led hands-on coding
+              activities and supported students with debugging and step-by-step
+              problem-solving, encouraging independent thinking and
+              experimentation. Managed collaborative learning environments of up
+              to 30 students and instructors, working with a team of 2–4
+              colleagues to coordinate lessons and support students.
             </p>
           </div>
         </article>
